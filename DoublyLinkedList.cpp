@@ -11,10 +11,22 @@ public:
     Node *prev;
 };
 
-class doublelinkedlist{
+class DoubleLinkedList{
 private:
     Node *START;
-    Node *
+
+public:
+    DoubleLinkedList()
+    {
+        START = NULL;
+    }
+
+    void addNode()
+    {
+        int nim;
+        string nim;
+        cout << "/nEnter the roll number of the student: ";
+    }
 };
 int main(){
 
