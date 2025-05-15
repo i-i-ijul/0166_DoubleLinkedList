@@ -14,7 +14,7 @@ public:
 class doublelinkedlist{
 private:
     Node *START;
-    
+    Node  *
 };
 int main(){
 
